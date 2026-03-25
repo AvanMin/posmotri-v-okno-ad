@@ -1,1 +1,1 @@
-https://github.com/KiraShadrina15/posmotri-v-okno-ad
+https://github.com/AvanMin/posmotri-v-okno-ad
